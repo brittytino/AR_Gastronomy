@@ -49,19 +49,19 @@ const Index = () => {
             <ARDishCard
               title="Levitating Spheres"
               description="Experience our signature spherification process in augmented reality"
-              image="/placeholder.svg"
+              image="https://img.freepik.com/free-photo/beautiful-still-life-with-water_23-2149199548.jpg?uid=R183503151&ga=GA1.1.2125779506.1739622249&semt=ais_hybrid"
               technique="Spherification"
             />
             <ARDishCard
               title="Nitrogen Cloud"
               description="Watch as liquid nitrogen transforms simple ingredients"
-              image="/placeholder.svg"
+              image="https://img.freepik.com/free-photo/delicious-smoke-cooked-food_23-2151259630.jpg?t=st=1740318793~exp=1740322393~hmac=6d9fe05ca4b02f44456cee6a475ed5ffab0bf5b06c105e8c8db72fe689663ce8&w=740"
               technique="Cryocooking"
             />
             <ARDishCard
               title="Sonic Seasoning"
               description="Discover how sound enhances flavor perception"
-              image="/placeholder.svg"
+              image="https://img.freepik.com/free-photo/lamb-ribs-covered-with-green-coconut-sprinkles-served-with-thai-rice_140725-8324.jpg?uid=R183503151&ga=GA1.1.2125779506.1739622249&semt=ais_hybrid"
               technique="Sound Pairing"
             />
           </div>
